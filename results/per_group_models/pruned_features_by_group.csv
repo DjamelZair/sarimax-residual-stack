@@ -1,0 +1,61 @@
+group,feature,rank
+G1 low intermittency,time_since_last_sale,1
+G1 low intermittency,lag_1,2
+G1 low intermittency,te_item_id_resid,3
+G1 low intermittency,roll_mean_7,4
+G1 low intermittency,lag_7,5
+G1 low intermittency,roll_mean_28,6
+G1 low intermittency,lag_28,7
+G1 low intermittency,lag_21,8
+G1 low intermittency,roll_mean_14,9
+G1 low intermittency,lag_14,10
+G1 low intermittency,roll_zero_share_28,11
+G1 low intermittency,lag_13,12
+G1 low intermittency,snap_TX,13
+G1 low intermittency,wday,14
+G1 low intermittency,sin_week,15
+G2 medium intermittency,time_since_last_sale,1
+G2 medium intermittency,roll_zero_share_28,2
+G2 medium intermittency,sell_price,3
+G2 medium intermittency,roll_mean_28,4
+G2 medium intermittency,roll_mean_7,5
+G2 medium intermittency,snap_TX,6
+G2 medium intermittency,lag_14,7
+G2 medium intermittency,roll_std_7,8
+G2 medium intermittency,lag_21,9
+G2 medium intermittency,roll_mean_14,10
+G2 medium intermittency,item_id,11
+G2 medium intermittency,te_item_id_resid,12
+G2 medium intermittency,lag_13,13
+G2 medium intermittency,roll_mean_21,14
+G2 medium intermittency,roll_std_28,15
+G3 high intermittency,time_since_last_sale,1
+G3 high intermittency,te_item_id_resid,2
+G3 high intermittency,roll_mean_28,3
+G3 high intermittency,roll_mean_7,4
+G3 high intermittency,sell_price,5
+G3 high intermittency,lag_28,6
+G3 high intermittency,snap_TX,7
+G3 high intermittency,lag_15,8
+G3 high intermittency,lag_21,9
+G3 high intermittency,roll_mean_21,10
+G3 high intermittency,event_name_1_prev_gap,11
+G3 high intermittency,roll_std_28,12
+G3 high intermittency,event_name_1_next_gap,13
+G3 high intermittency,lag_7,14
+G3 high intermittency,wday,15
+G4 very high intermittency,time_since_last_sale,1
+G4 very high intermittency,roll_mean_28,2
+G4 very high intermittency,lag_15,3
+G4 very high intermittency,roll_mean_7,4
+G4 very high intermittency,roll_mean_14,5
+G4 very high intermittency,te_item_id_resid,6
+G4 very high intermittency,roll_std_28,7
+G4 very high intermittency,roll_std_7,8
+G4 very high intermittency,wday,9
+G4 very high intermittency,price_roll_mean_8w,10
+G4 very high intermittency,promo_flag,11
+G4 very high intermittency,event_name_1_next_gap,12
+G4 very high intermittency,price_roll_std_4w,13
+G4 very high intermittency,weekday,14
+G4 very high intermittency,weekofyear,15

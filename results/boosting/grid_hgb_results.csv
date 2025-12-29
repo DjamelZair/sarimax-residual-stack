@@ -1,0 +1,4 @@
+model,params,RMSE_val
+hgb,"{'max_depth': 12, 'max_iter': 900, 'learning_rate': 0.03, 'min_samples_leaf': 20, 'l2_regularization': 0.1}",2.706026863574359
+hgb,"{'max_depth': 8, 'max_iter': 700, 'learning_rate': 0.05, 'min_samples_leaf': 10, 'l2_regularization': 0.1}",2.7227485026555316
+hgb,"{'max_depth': 10, 'max_iter': 800, 'learning_rate': 0.04, 'min_samples_leaf': 15, 'l2_regularization': 0.05}",2.7368516559823504

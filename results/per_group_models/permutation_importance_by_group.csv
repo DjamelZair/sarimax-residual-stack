@@ -1,0 +1,245 @@
+feature,importance_mean,importance_std,group
+date,0.0,0.0,G1 low intermittency
+wm_yr_wk,0.0,0.0,G1 low intermittency
+weekday,-2.6471331268429488e-05,1.2581575838908763e-05,G1 low intermittency
+wday,0.008607638390406925,0.002791453649700346,G1 low intermittency
+month,1.5151483644992857e-05,3.989511406716875e-05,G1 low intermittency
+year,0.0,0.0,G1 low intermittency
+event_name_1,0.0,0.0,G1 low intermittency
+event_type_1,0.0,0.0,G1 low intermittency
+event_name_2,0.0,0.0,G1 low intermittency
+event_type_2,0.0,0.0,G1 low intermittency
+snap_TX,0.010267753111769062,0.0042705533525065655,G1 low intermittency
+weekofyear,8.71584474297471e-05,4.4879473061537434e-05,G1 low intermittency
+quarter,0.0,0.0,G1 low intermittency
+sin_week,0.007920618094151921,0.0026050134146941824,G1 low intermittency
+cos_week,0.000907926003842241,0.0007153998573424307,G1 low intermittency
+sin_year,-8.723633807525833e-05,0.00041718158518293014,G1 low intermittency
+cos_year,-0.0006128303461274909,0.00017616966221286476,G1 low intermittency
+event_name_1_prev_gap,0.002872266669674306,0.001175588852349557,G1 low intermittency
+event_name_1_next_gap,-0.0006225472745033933,0.0005571827416753347,G1 low intermittency
+event_name_1_window_3,-9.755998689948697e-05,0.00011860620345936197,G1 low intermittency
+event_name_1_window_7,-0.0003552417291432963,0.0002115079730610078,G1 low intermittency
+event_name_2_prev_gap,-0.00012474131272117718,7.69793907114885e-05,G1 low intermittency
+event_name_2_next_gap,-0.00017803918944323538,0.00019888432620954072,G1 low intermittency
+event_name_2_window_3,0.0,0.0,G1 low intermittency
+event_name_2_window_7,0.0,0.0,G1 low intermittency
+item_id,0.002178245126036993,0.001105431832859982,G1 low intermittency
+store_id,0.0,0.0,G1 low intermittency
+sell_price,0.004030077644250274,0.008623797135985429,G1 low intermittency
+sell_price_was_missing,0.0,0.0,G1 low intermittency
+price_change,7.4314878144798865e-06,2.186471348609109e-05,G1 low intermittency
+price_pct_change,0.0,0.0,G1 low intermittency
+price_roll_mean_4w,0.004688733886445107,0.0010891952965026458,G1 low intermittency
+price_roll_std_4w,0.00011740337024754855,0.00015836773369641807,G1 low intermittency
+price_roll_mean_8w,0.003966163631825869,0.001090268978427876,G1 low intermittency
+price_roll_std_8w,0.0008561316095653693,0.0006683270392699008,G1 low intermittency
+promo_flag,0.000446498197321521,0.0015748067828763087,G1 low intermittency
+lag_1,0.3771197982975516,0.018483858973065488,G1 low intermittency
+lag_7,0.08311274453454724,0.008941804114188762,G1 low intermittency
+lag_13,0.015256325844239837,0.0006690445985752487,G1 low intermittency
+lag_14,0.031390540958230975,0.0026008698225229404,G1 low intermittency
+lag_15,-0.004637309264467459,0.002606134588964742,G1 low intermittency
+lag_21,0.04429653096833046,0.004260528604347155,G1 low intermittency
+lag_28,0.04562977965933399,0.0031861298779987694,G1 low intermittency
+roll_mean_7,0.12118193712512156,0.01335971063812854,G1 low intermittency
+roll_std_7,0.0021556510832093203,0.0006455009140285643,G1 low intermittency
+roll_mean_14,0.03407970802265174,0.002754060188538552,G1 low intermittency
+roll_std_14,0.004951724199807206,0.0006755271599308173,G1 low intermittency
+roll_mean_21,0.005819571001295043,0.001247924979606723,G1 low intermittency
+roll_std_21,0.0005868060192346425,0.0001546604085582066,G1 low intermittency
+roll_mean_28,0.05554328009875418,0.005607416387329846,G1 low intermittency
+roll_std_28,0.004892862288995881,0.00026211011123400884,G1 low intermittency
+roll_zero_share_7,0.0076162085207614584,0.0036144786609160528,G1 low intermittency
+roll_zero_share_14,0.004603157370077482,0.00787855327065392,G1 low intermittency
+roll_zero_share_28,0.02384406553704459,0.005996058583444835,G1 low intermittency
+time_since_last_sale,1.4094474563247854,0.1664719556496993,G1 low intermittency
+event_name_1_top,0.0,0.0,G1 low intermittency
+event_name_2_top,0.0,0.0,G1 low intermittency
+te_item_id_resid,0.14018801649852355,0.015552697130901422,G1 low intermittency
+te_store_id_resid,0.0,0.0,G1 low intermittency
+te_event_name_1_top_resid,0.0,0.0,G1 low intermittency
+te_event_name_2_top_resid,0.0,0.0,G1 low intermittency
+date,0.0,0.0,G2 medium intermittency
+wm_yr_wk,0.0,0.0,G2 medium intermittency
+weekday,-0.00012815636306540146,0.00015033705588171395,G2 medium intermittency
+wday,-0.0022239690336705474,0.002090700383410263,G2 medium intermittency
+month,0.0,0.0,G2 medium intermittency
+year,0.0,0.0,G2 medium intermittency
+event_name_1,0.0,0.0,G2 medium intermittency
+event_type_1,0.0,0.0,G2 medium intermittency
+event_name_2,0.0,0.0,G2 medium intermittency
+event_type_2,0.0,0.0,G2 medium intermittency
+snap_TX,0.014262483917893998,0.0057438258332039634,G2 medium intermittency
+weekofyear,0.00018338442710001955,6.471198898859737e-05,G2 medium intermittency
+quarter,0.0,0.0,G2 medium intermittency
+sin_week,-0.0006557028026602963,0.0005218214325037982,G2 medium intermittency
+cos_week,-0.0010235577626868553,0.0007818751158236657,G2 medium intermittency
+sin_year,-0.0002473380382748136,0.0003551245020891684,G2 medium intermittency
+cos_year,2.8237468715675008e-05,0.0002961034621709513,G2 medium intermittency
+event_name_1_prev_gap,0.0012390302986158065,0.0011132192819144088,G2 medium intermittency
+event_name_1_next_gap,0.0007707054549613845,0.00039286505426808135,G2 medium intermittency
+event_name_1_window_3,-0.0004338496202132225,0.0002653807148442778,G2 medium intermittency
+event_name_1_window_7,-0.00010317275019247062,0.0005011739588074625,G2 medium intermittency
+event_name_2_prev_gap,-0.00011681502286078337,6.62481668075987e-05,G2 medium intermittency
+event_name_2_next_gap,0.0,0.0,G2 medium intermittency
+event_name_2_window_3,0.0,0.0,G2 medium intermittency
+event_name_2_window_7,0.0,0.0,G2 medium intermittency
+item_id,0.008042418427804465,0.012691266801964071,G2 medium intermittency
+store_id,0.0,0.0,G2 medium intermittency
+sell_price,0.06289161401815227,0.009921181018537943,G2 medium intermittency
+sell_price_was_missing,0.0,0.0,G2 medium intermittency
+price_change,0.0,0.0,G2 medium intermittency
+price_pct_change,0.0,0.0,G2 medium intermittency
+price_roll_mean_4w,-1.776141819096466e-05,0.003660233734535485,G2 medium intermittency
+price_roll_std_4w,0.0009087721206463506,0.0008420547569120543,G2 medium intermittency
+price_roll_mean_8w,0.0004980318378628778,0.0005076536450692606,G2 medium intermittency
+price_roll_std_8w,0.00039254504676844437,0.0008859032994721297,G2 medium intermittency
+promo_flag,0.0006353922247489541,0.00048653792790861024,G2 medium intermittency
+lag_1,-0.010344115030998547,0.005530575816054638,G2 medium intermittency
+lag_7,-0.012817390759686376,0.004472493294499495,G2 medium intermittency
+lag_13,0.005224926525800422,0.0007168971628967214,G2 medium intermittency
+lag_14,0.012583463297905694,0.004699247315104734,G2 medium intermittency
+lag_15,0.0011195215431138773,0.001095862322432816,G2 medium intermittency
+lag_21,0.010048060268547853,0.00406591083000517,G2 medium intermittency
+lag_28,0.0014536139008498815,0.0025250861822041656,G2 medium intermittency
+roll_mean_7,0.0279068603044907,0.005585020186831061,G2 medium intermittency
+roll_std_7,0.012207290424133755,0.0021452670855610515,G2 medium intermittency
+roll_mean_14,0.008589263540154013,0.0015954551989705139,G2 medium intermittency
+roll_std_14,0.0012015965042714294,0.0006409868132732556,G2 medium intermittency
+roll_mean_21,0.004281751279771995,0.0009234562073665634,G2 medium intermittency
+roll_std_21,0.0010654543872067545,0.000551433695426124,G2 medium intermittency
+roll_mean_28,0.03072565654786752,0.005284396460486806,G2 medium intermittency
+roll_std_28,0.0033466420290043652,0.0006231946338017011,G2 medium intermittency
+roll_zero_share_7,0.0017288761693597498,0.0009200213961976755,G2 medium intermittency
+roll_zero_share_14,-0.0010364165372636735,0.0005920924713769476,G2 medium intermittency
+roll_zero_share_28,0.11798249791594013,0.030503462027716893,G2 medium intermittency
+time_since_last_sale,1.0651911617092484,0.033899053571926456,G2 medium intermittency
+event_name_1_top,0.0,0.0,G2 medium intermittency
+event_name_2_top,0.0,0.0,G2 medium intermittency
+te_item_id_resid,0.006867280135303999,0.0025024975280875075,G2 medium intermittency
+te_store_id_resid,0.0,0.0,G2 medium intermittency
+te_event_name_1_top_resid,0.0,0.0,G2 medium intermittency
+te_event_name_2_top_resid,0.0,0.0,G2 medium intermittency
+date,0.0,0.0,G3 high intermittency
+wm_yr_wk,0.0,0.0,G3 high intermittency
+weekday,0.00023750071792396631,0.00020130866560844155,G3 high intermittency
+wday,0.0010625676327702394,0.001099842642788168,G3 high intermittency
+month,0.0,0.0,G3 high intermittency
+year,0.0,0.0,G3 high intermittency
+event_name_1,0.0,0.0,G3 high intermittency
+event_type_1,0.0,0.0,G3 high intermittency
+event_name_2,0.0,0.0,G3 high intermittency
+event_type_2,0.0,0.0,G3 high intermittency
+snap_TX,0.006434410322204176,0.0024734601463230585,G3 high intermittency
+weekofyear,0.0,0.0,G3 high intermittency
+quarter,0.0,0.0,G3 high intermittency
+sin_week,0.0008780063715666753,0.0005748843392805833,G3 high intermittency
+cos_week,-1.2034962924456494e-05,1.529134178210406e-05,G3 high intermittency
+sin_year,0.00021045236652141863,0.0001230364482895278,G3 high intermittency
+cos_year,0.0,0.0,G3 high intermittency
+event_name_1_prev_gap,0.0022995379516216998,0.00123796000242025,G3 high intermittency
+event_name_1_next_gap,0.0012986736382806009,0.0005429408289731443,G3 high intermittency
+event_name_1_window_3,0.0,0.0,G3 high intermittency
+event_name_1_window_7,0.0,0.0,G3 high intermittency
+event_name_2_prev_gap,0.0,0.0,G3 high intermittency
+event_name_2_next_gap,7.301053199455509e-05,4.650148184034053e-05,G3 high intermittency
+event_name_2_window_3,0.0,0.0,G3 high intermittency
+event_name_2_window_7,0.0,0.0,G3 high intermittency
+item_id,-0.0010948216106751118,0.0006406383035461338,G3 high intermittency
+store_id,0.0,0.0,G3 high intermittency
+sell_price,0.009120253897053532,0.002338166909512568,G3 high intermittency
+sell_price_was_missing,0.0,0.0,G3 high intermittency
+price_change,0.0,0.0,G3 high intermittency
+price_pct_change,0.0,0.0,G3 high intermittency
+price_roll_mean_4w,-0.00020670598093528448,0.00039761327278381296,G3 high intermittency
+price_roll_std_4w,-3.587031042306954e-05,0.0003802472288547558,G3 high intermittency
+price_roll_mean_8w,0.0005776198473175454,0.0008169093234759087,G3 high intermittency
+price_roll_std_8w,0.0,0.0,G3 high intermittency
+promo_flag,0.0003818337044473763,6.622963615196934e-05,G3 high intermittency
+lag_1,-0.006802871812647338,0.003910248335391562,G3 high intermittency
+lag_7,0.001247589914053626,0.0018469545826878815,G3 high intermittency
+lag_13,-0.0019472045018624762,5.721251199098412e-05,G3 high intermittency
+lag_14,-0.008690411041421032,0.0013081688080428201,G3 high intermittency
+lag_15,0.005650663464693739,0.00016060720503570483,G3 high intermittency
+lag_21,0.005476696743270027,0.0010619958402519145,G3 high intermittency
+lag_28,0.00910791421722872,0.0010320684872510302,G3 high intermittency
+roll_mean_7,0.016468053870734224,0.0015655008859305354,G3 high intermittency
+roll_std_7,0.0004020418030988404,0.0010065254962358264,G3 high intermittency
+roll_mean_14,0.00032810295591225727,0.00032738579156129776,G3 high intermittency
+roll_std_14,-6.079424778675513e-05,0.0001316027519155417,G3 high intermittency
+roll_mean_21,0.0029289747259240604,0.0003742171778853788,G3 high intermittency
+roll_std_21,0.000900111183378538,0.000589530187681671,G3 high intermittency
+roll_mean_28,0.02959299504583086,0.002437451896304579,G3 high intermittency
+roll_std_28,0.002141595069566704,0.0003365851364017066,G3 high intermittency
+roll_zero_share_7,0.0010233328220830896,0.0014311910632832077,G3 high intermittency
+roll_zero_share_14,-0.0029571193940999053,0.0006542114301437901,G3 high intermittency
+roll_zero_share_28,-0.004226043230521448,0.0011595296757282892,G3 high intermittency
+time_since_last_sale,1.324278489973223,0.0612309357781705,G3 high intermittency
+event_name_1_top,0.0,0.0,G3 high intermittency
+event_name_2_top,0.0,0.0,G3 high intermittency
+te_item_id_resid,0.03366797504914363,0.007274815063150026,G3 high intermittency
+te_store_id_resid,0.0,0.0,G3 high intermittency
+te_event_name_1_top_resid,0.0,0.0,G3 high intermittency
+te_event_name_2_top_resid,0.0,0.0,G3 high intermittency
+date,0.0,0.0,G4 very high intermittency
+wm_yr_wk,0.0,0.0,G4 very high intermittency
+weekday,0.0006441711052953103,0.0002482611576930786,G4 very high intermittency
+wday,0.001785051627049472,0.0009635662531016443,G4 very high intermittency
+month,0.00015425200515646332,0.00021090138225898647,G4 very high intermittency
+year,0.0,0.0,G4 very high intermittency
+event_name_1,0.0,0.0,G4 very high intermittency
+event_type_1,0.0,0.0,G4 very high intermittency
+event_name_2,0.0,0.0,G4 very high intermittency
+event_type_2,0.0,0.0,G4 very high intermittency
+snap_TX,-0.004954146669870129,0.004498867455559994,G4 very high intermittency
+weekofyear,0.0003961863019782408,0.0004129617151476192,G4 very high intermittency
+quarter,0.0,0.0,G4 very high intermittency
+sin_week,-6.721829009879166e-05,8.271402581848631e-05,G4 very high intermittency
+cos_week,-0.0003977809547523137,0.001013901645822573,G4 very high intermittency
+sin_year,-0.0009231440180708095,0.0002612785487297224,G4 very high intermittency
+cos_year,0.0,0.0,G4 very high intermittency
+event_name_1_prev_gap,-0.0021308526336365043,0.0012912603727644049,G4 very high intermittency
+event_name_1_next_gap,0.0010729528183491377,0.0005714646124400325,G4 very high intermittency
+event_name_1_window_3,-2.1225904951016616e-05,0.0001742768235594862,G4 very high intermittency
+event_name_1_window_7,0.0,0.0,G4 very high intermittency
+event_name_2_prev_gap,0.0,0.0,G4 very high intermittency
+event_name_2_next_gap,1.1345788401206925e-05,3.5495949283178526e-06,G4 very high intermittency
+event_name_2_window_3,0.0,0.0,G4 very high intermittency
+event_name_2_window_7,0.0,0.0,G4 very high intermittency
+item_id,-0.0024703815691099473,0.000524363866354726,G4 very high intermittency
+store_id,0.0,0.0,G4 very high intermittency
+sell_price,-0.002231173297196953,0.0017002312577279988,G4 very high intermittency
+sell_price_was_missing,0.0,0.0,G4 very high intermittency
+price_change,0.0,0.0,G4 very high intermittency
+price_pct_change,0.0,0.0,G4 very high intermittency
+price_roll_mean_4w,-0.003408268480153098,0.0013855494600860708,G4 very high intermittency
+price_roll_std_4w,0.0010649098836821302,0.0008716485719049067,G4 very high intermittency
+price_roll_mean_8w,0.001144821093718562,0.0008550298578159496,G4 very high intermittency
+price_roll_std_8w,3.939653259283915e-05,0.00011862246814356266,G4 very high intermittency
+promo_flag,0.0010826855806175706,0.0006505265239853726,G4 very high intermittency
+lag_1,-0.11939350896462768,0.0021904190041864904,G4 very high intermittency
+lag_7,-0.018500651819072123,0.0012421291053639363,G4 very high intermittency
+lag_13,-0.002255845414825397,0.00019547070131125998,G4 very high intermittency
+lag_14,-0.04106964576675916,0.0023125429409410416,G4 very high intermittency
+lag_15,0.022339756345959482,0.0005004602025068812,G4 very high intermittency
+lag_21,-0.01270589499751409,0.002367712356258431,G4 very high intermittency
+lag_28,-0.0017395796737941672,0.0008096222254466582,G4 very high intermittency
+roll_mean_7,0.014912831707553642,0.0006158971772925066,G4 very high intermittency
+roll_std_7,0.003968137086451273,0.0006960960188325978,G4 very high intermittency
+roll_mean_14,0.012174541767650048,0.0002829261925879178,G4 very high intermittency
+roll_std_14,-0.0017017085524998032,0.00033375299669664605,G4 very high intermittency
+roll_mean_21,-0.0057820036634053775,0.00035190469128883016,G4 very high intermittency
+roll_std_21,-0.0012266554073616653,0.00012998791783613763,G4 very high intermittency
+roll_mean_28,0.04296653911642408,0.0010255708846534971,G4 very high intermittency
+roll_std_28,0.007408461518908949,0.0005946659157096435,G4 very high intermittency
+roll_zero_share_7,-0.003549507557264309,0.00018386293008879423,G4 very high intermittency
+roll_zero_share_14,-0.0035900217322503147,0.0005729058422944726,G4 very high intermittency
+roll_zero_share_28,-0.03811719748882121,0.0014390967897501333,G4 very high intermittency
+time_since_last_sale,1.1030099617063136,0.02458087704807805,G4 very high intermittency
+event_name_1_top,0.0,0.0,G4 very high intermittency
+event_name_2_top,0.0,0.0,G4 very high intermittency
+te_item_id_resid,0.007713125020464373,0.0010204036722791558,G4 very high intermittency
+te_store_id_resid,0.0,0.0,G4 very high intermittency
+te_event_name_1_top_resid,0.0,0.0,G4 very high intermittency
+te_event_name_2_top_resid,0.0,0.0,G4 very high intermittency
